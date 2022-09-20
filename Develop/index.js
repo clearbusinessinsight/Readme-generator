@@ -9,12 +9,12 @@ const generatereadme = ({ projectTitle, description, installation, usage, contri
 # ${projectTitle} 👋
 
 ## Table of Contents
-- [Project Description](#description)
-- [Installation Process](#installation)
-- [How is this project used](#usage)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
-- [Contributors to the project](#contribution)
-- [Tests built in to the project](#builtintest)
+- [Contributors](#contribution)
+- [Tests](#builtintest)
 
 
 
