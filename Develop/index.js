@@ -8,23 +8,29 @@ const generatereadme = ({ projectTitle, description, installation, usage, contri
 
 # ${projectTitle} 👋
 
+![badge](https://img.shields.io/badge/license-${license}-brightgreen)
+<br />
+This application is covered by the ${license} license. 
+
+
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Description](#project-description)
+- [Installation](#installation-instructions)
+- [Usage](#usage-information)
 - [License](#license)
-- [Contributors](#contribution)
-- [Tests](#builtintest)
+- [Contributing](#contribution-guidelines)
+- [Test](#test-instructions)
+- [Questions](#questions)
 
 
 
 ## Project Description
 ${description}
 
-## Installation Process
+## Installation Instructions
 💾 ${installation}
 
-## How is the project Used
+## Usage Information
 ${usage}
 
 ## License
@@ -32,13 +38,13 @@ ${usage}
 <br />
 This application is covered by the ${license} license. 
 
-## Contributors to the project
+## Contribution Guidelines
 ${contribution}
 
-## Tests that are built in to the project
+## Test Instructions
 ${builtintest}
 
-
+## Questions
 Find me on GitHub: [${username}](https://github.com/${username})<br />
 <br />
 ✉️ Email me with any questions: ${email}<br /><br />
@@ -50,7 +56,7 @@ inquirer
     {
       type: 'input',
       name: 'projectTitle',
-      message: "What is your Project Title?",
+      message: "What is the Project Title?",
     },
     {
       type: 'input',
@@ -60,12 +66,22 @@ inquirer
     {
       type: 'input',
       name: 'installation',
-      message: "Please describe the Installation process:",
+      message: "Please describe the Installation instructions:",
     },
     {
       type: 'input',
       name: 'usage',
-      message: "What is project used for?",
+      message: "Please enter Usage Information:",
+    },
+    {
+      type: 'input',
+      name: 'contribution',
+      message: "What are the contribution Guidelines?",
+    },
+    {
+      type: 'input',
+      name: 'builtintest',
+      message: "Enter Test instructions.",
     },
     {
       type: "list",
@@ -81,16 +97,7 @@ inquirer
           "Open"
       ]
   },
-    {
-      type: 'input',
-      name: 'contribution',
-      message: "Who are the contributors of this project?",
-    },
-    {
-      type: 'input',
-      name: 'builtintest',
-      message: "Are there test included?",
-    },
+       
     {
       type: "input",
       name: "username",
