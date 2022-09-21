@@ -1,10 +1,10 @@
 
 
-# sadf 👋
+# README.md Generator 👋
 
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 
 
 ## Table of Contents
@@ -19,27 +19,27 @@ This application is covered by the Apache license.
 
 
 ## Project Description
-sadf
+This project is designed to make it easy to create a professional consistant README file for any project
 
 ## Installation Instructions
-💾 sadf
+💾 run NPM i, then run node index.js
 
 ## Usage Information
-sdaf
+Use any way you like.
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 
 ## Contribution Guidelines
-asdf
+Chris Holtz has created this project.
 
 ## Test Instructions
-sdaf
+There are no test included with this project.
 
 ## Questions
-Find me on GitHub: [sdaf](https://github.com/sdaf)<br />
+Find me on GitHub: [choltz@cacbydesign.com](https://github.com/choltz@cacbydesign.com)<br />
 <br />
-✉️ Email me with any questions: sad<br /><br />
+✉️ Email me with any questions: choltz@cacbydesign.com<br /><br />
 
