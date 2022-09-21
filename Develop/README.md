@@ -1,6 +1,6 @@
 
 
-# README.md Generator 👋
+# Professional README.md Generator 👋
 
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
@@ -19,13 +19,13 @@ This application is covered by the Open license.
 
 
 ## Project Description
-This project is designed to make it easy to create a professional consistant README file for any project
+This project is designed to help you create a consistent README.md file for any project.
 
 ## Installation Instructions
-💾 run NPM i, then run node index.js
+💾 To install this project first update “npm I” Then run “node index.js and answer the questions.
 
 ## Usage Information
-Use any way you like.
+Use this program as you wish.
 
 ## License
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
@@ -33,10 +33,10 @@ Use any way you like.
 This application is covered by the Open license. 
 
 ## Contribution Guidelines
-Chris Holtz has created this project.
+This program was created by Chris Holtz without additional contributions.
 
 ## Test Instructions
-There are no test included with this project.
+There are no test included with this program.
 
 ## Questions
 Find me on GitHub: [choltz@cacbydesign.com](https://github.com/choltz@cacbydesign.com)<br />
