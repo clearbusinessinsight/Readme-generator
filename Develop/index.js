@@ -1,7 +1,6 @@
 
 const inquirer = require('inquirer');
 const fs = require('fs');
-// const utils = require("utils");
 const generatereadme = ({ projectTitle, description, installation, usage, contribution, builtintest, license, username, email }) =>
 
 `
@@ -111,6 +110,9 @@ inquirer
 
   ])
   .then((answers) => {
+   
+   
+   
     const readmePageContent = generatereadme(answers);
 
     fs.writeFile('README.md', readmePageContent, (err) =>

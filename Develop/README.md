@@ -1,10 +1,10 @@
 
 
-# sfdasdfasfdasfdasfdsfda 👋
+# sadf 👋
 
-![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
-This application is covered by the Mozilla license. 
+This application is covered by the Apache license. 
 
 
 ## Table of Contents
@@ -19,27 +19,27 @@ This application is covered by the Mozilla license.
 
 
 ## Project Description
-sfdsfd
+sadf
 
 ## Installation Instructions
-💾 sdfasfdadsfasdafsdafsfdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadsfsdfafdas
+💾 sadf
 
 ## Usage Information
-sdfa
+sdaf
 
 ## License
-![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
+![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
-This application is covered by the Mozilla license. 
+This application is covered by the Apache license. 
 
 ## Contribution Guidelines
-sdfa
+asdf
 
 ## Test Instructions
-sdfa
+sdaf
 
 ## Questions
-Find me on GitHub: [sdfa](https://github.com/sdfa)<br />
+Find me on GitHub: [sdaf](https://github.com/sdaf)<br />
 <br />
-✉️ Email me with any questions: sdaf<br /><br />
+✉️ Email me with any questions: sad<br /><br />
 
