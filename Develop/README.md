@@ -6,6 +6,7 @@
 <br />
 This application is covered by the Open license. 
 
+![alt text](./utils/ReadmeGenerator2.0.gif)
 
 ## Table of Contents
 - [Description](#project-description)
