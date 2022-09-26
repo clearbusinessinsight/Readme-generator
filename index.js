@@ -11,6 +11,7 @@ const generatereadme = ({ projectTitle, description, installation, usage, contri
 <br />
 This application is covered by the ${license} license. 
 
+![alt text](./utils/ReadmeGenerator2.0.gif)
 
 ## Table of Contents
 - [Description](#project-description)
